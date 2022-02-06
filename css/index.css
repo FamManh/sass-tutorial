@@ -71,15 +71,15 @@ img {
 }
 
 .text-secondary {
-  color: #1ac888;
+  color: purple;
 }
 
 .text-hover-secondary:hover {
-  color: #1ac888;
+  color: purple;
 }
 
 .bg-secondary-light-9 {
-  background-color: #e8faf3;
+  background-color: #f2e6f2;
 }
 
 .text-gray {
@@ -118,11 +118,11 @@ img {
   border: 0;
   padding: 0.375rem 1.125rem;
   border-radius: 20px;
-  background-color: #1ac888;
-  background-color: #1ac888;
+  background-color: purple;
+  background-color: purple;
 }
 .btn-secondary:hover {
-  background-color: #1ddf97;
+  background-color: #9a009a;
 }
 
 .btn-outlined-secondary {
@@ -134,10 +134,10 @@ img {
   border-radius: 20px;
   background-color: white;
   background-color: white;
-  border: 1px solid #1ac888;
+  border: 1px solid purple;
 }
 .btn-outlined-secondary:hover {
-  background-color: #1ac888;
+  background-color: purple;
 }
 
 .navbar .container, .navbar {
@@ -157,7 +157,7 @@ img {
 }
 
 .navbar-secondary {
-  background-color: #1ac888;
+  background-color: purple;
 }
 
 .p-0 {
